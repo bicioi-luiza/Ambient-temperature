@@ -1,0 +1,342 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/nr_5.vhd $DSN/src/nr_9.vhd $DSN/src/modul_nr5.vhd $DSN/src/modul_nr9.vhd $DSN/src/nr_2.vhd $DSN/src/modul_nr2.vhd $DSN/src/nr_4.vhd $DSN/src/modul_nr4.vhd $DSN/src/nr_3.vhd $DSN/src/modul_nr3.vhd $DSN/src/generator_temperatura.vhd $DSN/src/modul_generator.vhd $DSN/src/mux.vhd $DSN/src/modul_mux.vhd $DSN/src/numarator_mux.vhd $DSN/src/modul_nr_m.vhd $DSN/src/bcd.vhd $DSN/src/modul_bcd.vhd $DSN/src/proiect.vhd $DSN/src/mux_2_la1.vhd $DSN/src/nr_1.vhd $DSN/src/modul_proiect.vhd $DSN/src/proiect_primajum.vhd $DSN/src/nr_lu.vhd $DSN/src/nr_zile_u.vhd
+# Compile...
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_5.vhd
+# Compile Entity "Numarator_5"
+# Entity `Numarator_5' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_5"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_9.vhd
+# Compile Entity "Numarator_9"
+# Entity `Numarator_9' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_9"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr5.vhd
+# Compile Entity "Modul_nr5"
+# Entity `Modul_nr5' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr5"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr9.vhd
+# Compile Entity "Modul_nr9"
+# Entity `Modul_nr9' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr9"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_2.vhd
+# Compile Entity "Numarator_2"
+# Entity `Numarator_2' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_2"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr2.vhd
+# Compile Entity "Modul_nr2"
+# Entity `Modul_nr2' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr2"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_4.vhd
+# Compile Entity "Numarator_4"
+# Entity `Numarator_4' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_4"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr4.vhd
+# Compile Entity "Modul_nr4"
+# Entity `Modul_nr4' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr4"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_3.vhd
+# Compile Entity "Numarator_3"
+# Entity `Numarator_3' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_3"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr3.vhd
+# Compile Entity "Modul_nr3"
+# Entity `Modul_nr3' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr3"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Generator_temperatura.vhd
+# Compile Entity "generator"
+# Entity `generator' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "generator"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_generator.vhd
+# Compile Entity "Modul_generator"
+# Entity `Modul_generator' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_generator"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\MUX.vhd
+# Compile Entity "MUX"
+# Entity `MUX' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "MUX"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_mux.vhd
+# Compile Entity "Modul_mux"
+# Entity `Modul_mux' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_mux"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Numarator_mux.vhd
+# Compile Entity "Numarator_mux"
+# Entity `Numarator_mux' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_mux"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_nr_m.vhd
+# Compile Entity "Modul_nr_m"
+# Entity `Modul_nr_m' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_nr_m"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\BCD.vhd
+# Compile Entity "BCD"
+# Entity `BCD' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "BCD"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_bcd.vhd
+# Compile Entity "Modul_bcd"
+# Entity `Modul_bcd' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_bcd"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\proiect.vhd
+# Compile Entity "proiect"
+# Entity `proiect' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "proiect"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Mux_2_la1.vhd
+# Compile Entity "Mux_2_la1"
+# Entity `Mux_2_la1' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Mux_2_la1"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_1.vhd
+# Compile Entity "Numarator_1"
+# Entity `Numarator_1' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_1"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Modul_proiect.vhd
+# Compile Entity "Modul_pr"
+# Entity `Modul_pr' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "Modul_pr"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\proiect_primajum.vhd
+# Compile Entity "proiect_j"
+# Entity `proiect_j' has been skipped - no difference detected.
+# Compile Architecture "bhv" of Entity "proiect_j"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\nr_lu.vhd
+# Compile Entity "Numarator_LU"
+# Entity `Numarator_LU' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_LU"
+# File: c:\My_Designs\Proiect\nr_sec_z\src\Nr_zile_u.vhd
+# Compile Entity "Numarator_9_0"
+# Entity `Numarator_9_0' has been skipped - no difference detected.
+# Compile Architecture "Behavioral" of Entity "Numarator_9_0"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+asim -advdataflow  modul_pr bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2486 kB (elbread=1071 elab2=360 kernel=1055 sdf=0)
+# 2:06 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_pr (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_nr4 bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2422 kB (elbread=1070 elab2=303 kernel=1049 sdf=0)
+# 2:24 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_nr4 (bhv)
+# Signal Zile_u not found in design
+# Signal Zile_z not found in design
+# Signal L_u not found in design
+# Signal L_z not found in design
+# Signal BCD1 not found in design
+# Signal BCD2 not found in design
+# Signal BCD3 not found in design
+# Signal BCD4 not found in design
+# Signal S not found in design
+# Signal Min_u not found in design
+# Signal Min_z not found in design
+# Signal Ora_u not found in design
+# Signal Ora_z not found in design
+# Signal CLK1 not found in design
+# Signal mode not found in design
+# Signal LED_G not found in design
+# Signal Din not found in design
+# Signal Dout not found in design
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+run @300ns
+# KERNEL: stopped at time: 300 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_bcd bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2419 kB (elbread=1070 elab2=301 kernel=1048 sdf=0)
+# 2:26 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_bcd (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+run @300ns
+# KERNEL: stopped at time: 300 ns
+run @400ns
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_nr9 bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1070 elab2=302 kernel=1049 sdf=0)
+# 2:30 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_nr9 (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+run @300ns
+# KERNEL: stopped at time: 300 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_nr5 bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1070 elab2=302 kernel=1049 sdf=0)
+# 2:31 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_nr5 (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+run @300ns
+# KERNEL: stopped at time: 300 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_nr3 bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1070 elab2=302 kernel=1049 sdf=0)
+# 2:36 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_nr3 (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+run @300ns
+# KERNEL: stopped at time: 300 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_nr2 bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2421 kB (elbread=1070 elab2=302 kernel=1049 sdf=0)
+# 2:37 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_nr2 (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+run @200ns
+# KERNEL: stopped at time: 200 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  modul_pr bhv
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2486 kB (elbread=1071 elab2=360 kernel=1055 sdf=0)
+# 2:40 PM, Tuesday, May 31, 2022
+# Simulation has been initialized
+# Selected Top-Level: modul_pr (bhv)
+run @100ns
+# KERNEL: stopped at time: 100 ns
+# Signal CLK1 not found in design
+# Signal mode not found in design
+# Signal Tc not found in design
+# Signal LED_G not found in design
+endsim
+# All when statements cleared.
+# Simulation has been stopped

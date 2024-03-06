@@ -1,0 +1,110 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=nr_sec_z
+
+[Library]
+nr_sec_z=.\nr_sec_z.lib
+
+[$LibMap$]
+nr_sec_z=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=modul_bcd|bhv|0 modul_nr2|bhv|0 modul_nr3|bhv|0 modul_nr4|bhv|0 modul_nr5|bhv|0 modul_nr9|bhv|0 modul_pr|bhv|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/nr_5.vhd=-1
+/nr_9.vhd=-1
+/Waveform nr9.awf=-1
+/Modul_nr5.vhd=-1
+/Waveform_nr5.awf=-1
+/Modul_nr9.vhd=-1
+/nr_2.vhd=-1
+/Modul_nr2.vhd=-1
+/nr_4.vhd=-1
+/Modul_nr4.vhd=-1
+/Waveform numarator_4.awf=-1
+/nr_3.vhd=-1
+/Modul_nr3.vhd=-1
+/waveform nr3.awf=-1
+/Waveform nr2.awf=-1
+/Generator_temperatura.vhd=-1
+/Modul_generator.vhd=-1
+/Waveform generator_cifre.awf=-1
+/MUX.vhd=-1
+/Modul_mux.vhd=-1
+/Waveform mux.awf=-1
+/Numarator_mux.vhd=-1
+/Modul_nr_m.vhd=-1
+/Waveform nr_sel_mux.awf=-1
+/BCD.vhd=-1
+/Modul_bcd.vhd=-1
+/proiect.vhd=-1
+/Waveform bcd.awf=-1
+/Mux_2_la1.vhd=-1
+/nr_1.vhd=-1
+/Modul_proiect.vhd=-1
+/proiect_primajum.vhd=-1
+/nr_lu.vhd=-1
+/Nr_zile_u.vhd=-1
+/Waveform_nr4.awf=-1
+/Waveform_proiect.awf=-1
+
+[Files.Data]
+.\src\nr_5.vhd=VHDL Source Code
+.\src\nr_9.vhd=VHDL Source Code
+.\src\Waveform nr9.awf=Waveform File
+.\src\Modul_nr5.vhd=VHDL Source Code
+.\src\Waveform_nr5.awf=Waveform File
+.\src\Modul_nr9.vhd=VHDL Source Code
+.\src\nr_2.vhd=VHDL Source Code
+.\src\Modul_nr2.vhd=VHDL Source Code
+.\src\nr_4.vhd=VHDL Source Code
+.\src\Modul_nr4.vhd=VHDL Source Code
+.\src\Waveform numarator_4.awf=Waveform File
+.\src\nr_3.vhd=VHDL Source Code
+.\src\Modul_nr3.vhd=VHDL Source Code
+.\src\waveform nr3.awf=Waveform File
+.\src\Waveform nr2.awf=Waveform File
+.\src\Generator_temperatura.vhd=VHDL Source Code
+.\src\Modul_generator.vhd=VHDL Source Code
+.\src\Waveform generator_cifre.awf=Waveform File
+.\src\MUX.vhd=VHDL Source Code
+.\src\Modul_mux.vhd=VHDL Source Code
+.\src\Waveform mux.awf=Waveform File
+.\src\Numarator_mux.vhd=VHDL Source Code
+.\src\Modul_nr_m.vhd=VHDL Source Code
+.\src\Waveform nr_sel_mux.awf=Waveform File
+.\src\BCD.vhd=VHDL Source Code
+.\src\Modul_bcd.vhd=VHDL Source Code
+.\src\proiect.vhd=VHDL Source Code
+.\src\Waveform bcd.awf=Waveform File
+.\src\Mux_2_la1.vhd=VHDL Source Code
+.\src\nr_1.vhd=VHDL Source Code
+.\src\Modul_proiect.vhd=VHDL Source Code
+.\src\proiect_primajum.vhd=VHDL Source Code
+.\src\nr_lu.vhd=VHDL Source Code
+.\src\Nr_zile_u.vhd=VHDL Source Code
+.\src\Waveform_nr4.awf=Waveform File
+.\src\Waveform_proiect.awf=Waveform File
+

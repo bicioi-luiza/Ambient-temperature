@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+nr_sec_z=.\nr_sec_z\nr_sec_z.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+nr_sec_z=1

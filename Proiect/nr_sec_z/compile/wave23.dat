@@ -1,0 +1,232 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS S 17 1 4 Zile_u
+$SC 1-13/4
+$BUS S 34 1 4 5 0 z
+$SC 18-30/4
+$BUS S 51 1 4 L_u
+$SC 35-47/4
+$BUS S 68 1 4 L_z
+$SC 52-64/4
+I 3 "a#28#std_logic_vector(6 downto 0)1 ricd6 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S 97 3 7 BCD1
+$SC 69-93/4
+$BUS S +33 3 7 BCD2
+$SC 98-+24/4
+$BUS S +33 3 7 BCD3
+$SC 127-+24/4
+$BUS S +33 3 7 BCD4
+$SC 156-+24/4
+$S +5 2 S
+$S +4 2 R
+$S +4 2 clk
+$BUS S +20 1 4 Min_u
+$SC 197-+12/4
+$BUS S +21 1 4 Min_z
+$SC 214-+12/4
+$BUS S +21 1 4 Ora_u
+$SC 231-+12/4
+$BUS S +21 1 4 Ora_z
+$SC 248-+12/4
+$ENDTIME 100000
+$WAVES 193
+=0 T 0
+=1 D 0 1
+R 1 20 =2 D 5k 1
+$VALUES
+R 2 11 0 1
+$END
+$WAVES +-8
+*0
+*1
+=3 T 10k
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 151
+*0
+*1
+=4 D 0 6
+=5 D 20k 6
+R 2 2 =6 D 30k 6 =7 D 10k 6
+$VALUES
+V 1
+U
+R 2 3 1 0
+V 1
+1
+$END
+$WAVES 77
+*0
+*1
+R 1 2 *7
+R 2 2 *6 *7
+$VALUES
+V 1
+U
+R 2 3 1 0
+V 1
+1
+$END
+$WAVES +66
+*0
+*1
+*4
+R 1 10 *7
+$VALUES
+V 1
+U
+R 2 6 1 0
+$END
+$WAVES +37
+*0
+*1
+*5
+R 1 5 *7
+*5
+$VALUES
+V 1
+U
+R 2 4 1 0
+$END
+$WAVES 156
+*0
+*1
+*7
+*5
+R 1 5 *7
+$VALUES
+V 1
+U
+R 2 4 1 0
+$END
+$WAVES +12
+*0
+*1
+*5
+R 1 6 *7
+$VALUES
+V 1
+U
+R 2 4 1 0
+$END
+$WAVES +8
+*0
+*1
+=8 D 40k 6
+*7
+*6
+*5
+$VALUES
+V 1
+U
+R 2 2 1 0
+V 1
+1
+$END
+$WAVES 160
+*0
+*1
+*4
+R 2 2 *6 *7
+R 1 2 *7
+$VALUES
+V 1
+U
+R 2 4 1 0
+$END
+$WAVES +12
+*0
+*1
+*8
+*7
+*6
+*7
+$VALUES
+V 1
+U
+R 2 2 1 0
+V 1
+1
+$END
+$WAVES 131
+*0
+*1
+*7
+*5
+R 1 7 *7
+$VALUES
+V 1
+U
+R 2 5 1 0
+$END
+$WAVES 1 13 26 43 +4 201 +4 +13 +21 +4 +17
+*0
+*1
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 5 9 +9 +4 +8 +5 +4 52-64/4 189 +8 +12 +5 +8 +4 +5 +4 +13-+8/4
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 69 81 +4 +8 +25
+*0
+*1
+*5
+R 2 2 *7 *6
+$VALUES
+V 1
+U
+R 2 3 1 0
+$END
+$WAVES 73 98-+12/4 +12
+*0
+*1
+*7
+R 1 4 *5
+$VALUES
+V 1
+U
+R 2 3 1 0
+$END
+$WAVES 89 +25
+*0
+*1
+$VALUES
+V 2
+U
+1
+$END
+$WAVES +13 +12
+*0
+*1
+*4
+R 1 4 *7
+*6
+*7
+$VALUES
+V 1
+U
+R 2 4 1 0
+$END
+$WAVES +-4 +12 +17
+*0
+*1
+*4
+R 2 2 *6 *7
+$VALUES
+V 1
+U
+R 2 3 1 0
+$END
+$ENDWAVE

@@ -1,0 +1,30 @@
+elbread.dll ver. 1.0.5.365 Tue May 31 14:40:12 2022
+
+
+----------------------------------------
+Entity         | Architecture | Library
+----------------------------------------
+modul_pr       | bhv          | nr_sec_z
+proiect        | bhv          | nr_sec_z
+numarator_9    | behavioral   | nr_sec_z
+numarator_5    | behavioral   | nr_sec_z
+numarator_2    | behavioral   | nr_sec_z
+numarator_4    | behavioral   | nr_sec_z
+numarator_9_0  | behavioral   | nr_sec_z
+numarator_3    | behavioral   | nr_sec_z
+numarator_lu   | behavioral   | nr_sec_z
+numarator_1    | behavioral   | nr_sec_z
+generator      | behavioral   | nr_sec_z
+numarator_mux  | behavioral   | nr_sec_z
+mux            | bhv          | nr_sec_z
+bcd            | bhv          | nr_sec_z
+----------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------
